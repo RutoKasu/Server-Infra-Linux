@@ -23,7 +23,7 @@ This repository contains the practical documentation and logbook for my domestic
 ---
 
 ## 🗺️ Next Steps (Roadmap)
-- [x] Switch from passwords to digital cryptographic keys in SSH
+- [ ] Switch from passwords to digital cryptographic keys in SSH
 - [x] Activate and restrict network ports using the UFW Firewall
 - [ ] Install Fail2Ban to automatically block suspicious IP addresses
 - [ ] Configure a lightweight local DNS server (Pi-hole)
